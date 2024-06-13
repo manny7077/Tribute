@@ -31,7 +31,7 @@ const HeroSection = () => {
             
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-           Amos was ...
+            
           </p>
           <div>
              <a href="/resume/Amos' Tributes.pdf" download="Tributes.pdf">
